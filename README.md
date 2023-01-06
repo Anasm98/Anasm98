@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps & MERN stack**
 
-- 🤝 I’m looking for [DevOps intern opportunity](Anywhere in the Earth 😜)
+- 🤝 I’m looking for [DevOps intern opportunity] (Anywhere in the Earth 😜)
 
 - 📫 How to reach me **anasm0869@gmail.com**
 
