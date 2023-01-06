@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Mohamed</h1>
-<h3 align="center">Undergraduate & Linux & DevOps Enthusiast</h3>
+<h3 align="center">Undergraduate || Cloud & DevOps || Linux</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasm98&label=Profile%20views&color=0e75b6&style=flat" alt="anasm98" /> </p>
 
