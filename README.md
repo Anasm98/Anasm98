@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anas Mohamed</h1>
-<h3 align="center">Undergraduate || Cloud & DevOps || Linux</h3>
+<h3 align="center">Associate DevOps Engineer || Cloud & DevOps || Linux</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasm98&label=Profile%20views&color=0e75b6&style=flat" alt="anasm98" /> </p>
 
-- 🔭 I’m currently working on **Nowhere**
+- 🔭 I’m currently working on **OctopusBI**
 
 - 👯 I’m looking to collaborate on **Open source Projects**
 
 - 🌱 I’m currently learning **DevOps & MERN stack**
 
-- 🤝 I’m looking for [DevOps intern opportunity] (Anywhere in the Earth 😜)
+- 🤝 I’m looking for [DevOps Engineer] (Anywhere in the Earth 😜)
 
 - 📫 How to reach me **anasm0869@gmail.com**
 
